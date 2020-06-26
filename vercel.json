@@ -3,5 +3,11 @@
         "env": {
             "NODEJS_HELPERS": "0"
         }
-    }
+    },
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/api/haha"
+        }
+    ]
 }
