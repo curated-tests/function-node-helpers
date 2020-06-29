@@ -1,3 +1,3 @@
 module.exports = (req, res) => {
-    res.json({ test: true })
-}
+    return res.json({ test: true });
+};
