@@ -9,5 +9,6 @@
             "source": "/(.*)",
             "destination": "/api/haha"
         }
-    ]
+    ],
+    "regions": ["iad1"]
 }
