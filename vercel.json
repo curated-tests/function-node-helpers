@@ -1,7 +1,7 @@
 {
     "build": {
         "env": {
-            "NODEJS_HELPERS": "0"
+            "NODEJS_HELPERS": "1"
         }
     },
     "rewrites": [
