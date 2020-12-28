@@ -10,5 +10,5 @@
             "destination": "/api/haha"
         }
     ],
-    "regions": ["iad1"]
+    "regions": ["pdx1"]
 }
